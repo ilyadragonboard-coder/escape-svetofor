@@ -9,12 +9,9 @@
 Сторонних зависимостей нет — нужен только Python 3.8+.
 
 ```bash
-git init
-git add README.md
-git commit -m "первая фиксация"
-ветвь git -M main
-git remote add origin https://github.com/ilyadragonboard-coder/escape-svetofor.git
-git push -u origin main
+git clone https://github.com/ilyadragonboard-coder/escape-svetofor.git
+cd escape-svetofor
+python main.py
 ```
 
 ## Управление
