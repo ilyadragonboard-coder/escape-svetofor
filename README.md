@@ -25,7 +25,7 @@ python main.py
 
 Если `python` не срабатывает — попробуйте `python3 main.py`.
 
-Также в папке dist есть файл main.exe чтобы не запускать main.py.
+Также в папке `escape-svetofor/dist` есть файл `main.exe` чтобы не запускать `main.py`.
 
 Ничего дополнительно устанавливать не нужно.
 
